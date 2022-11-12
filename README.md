@@ -1,0 +1,2 @@
+# RIngZeroTask
+ Object Random Genrator
