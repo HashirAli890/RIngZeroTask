@@ -1,0 +1,8 @@
+Open Test Scene
+Script Attached To Script Object 
+On Script Object there is 2 Buttons 
+For genrating new object just press genrate button
+and for parsing prefab click other button
+
+For Creating Buttons CustomInspector script using 
+For Handling AssetSpawner Script is using
